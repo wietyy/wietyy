@@ -1,16 +1,17 @@
-## Hi there 👋
+# HELLO EVERYONE! 👋
+My name is **Caleb Wietholter**, a full-stack developer from Morgantown, WV.
 
-<!--
-**wietyy/wietyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A BIT ABOUT ME
+- I'm currently enrolled as a student at Ohio University (Athens, OH) pursuing a dual major in Computer Science as well as Artificial Intelligence.
+- I'm currently spending time turning my finance spreadsheet into an actual app because I have nothing better to do. (Check out wietyy/john if you're interested)
+- I'm the type of guy to think that a bug is a quick fix and then finding five other bugs whilst fixing one
 
-Here are some ideas to get you started:
+## SKILLS
+- Languages: JavaScript/Typescript (mainly), HTML/CSS/React, SQL, Python, a bit of Java as well
+- Applications: VSCode, Git + GitHub, AI-Assisted Development
+- Other Skills: Going up a "Down" Escalator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## SUMMARY
+Overall, I'm just a dude making his way through the world. Feel free to dig through my repos if you have time!
+
+(PS): if you give me a job i'll get everyone donuts every monday. consider this fact greatly
