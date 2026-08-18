@@ -9,7 +9,7 @@ My name is **Caleb Wietholter**, a full-stack developer from Morgantown, WV.
 ## SKILLS
 - Languages: JavaScript/Typescript (mainly), HTML/CSS/React, SQL, Python, a bit of Java as well
 - Applications: VSCode, Git + GitHub, AI-Assisted Development
-- Can Center a <div>
+- Can Center a \<div\>
 - Other Skills: Going up a "Down" Escalator
 
 ## SUMMARY
