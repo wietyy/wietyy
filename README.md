@@ -12,6 +12,16 @@ My name is **Caleb Wietholter**, a full-stack developer from Morgantown, WV.
 - Can Center a \<div\>
 - Other Skills: Going up a "Down" Escalator
 
+## MY AGENTIC DEVELOPMENT MINDSET
+Look, okay, I know that you can pay Claude $100 and it'll build you an app. This might make dev jobs obsolete. So, to fight that, I have adopted my own workflow:
+- When building an app, I will:
+  - Define functions
+  - Explain what each should do in a comment
+  - Make design decisions that can make said app scalable
+  - And then turn a cheaper model loose.
+  - You at your company save money and also maybe give me a good slice of those savings
+- It's a win-win for everyone!
+
 ## SUMMARY
 Overall, I'm just a dude making his way through the world. Feel free to dig through my repos if you have time!
 
