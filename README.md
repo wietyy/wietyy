@@ -19,7 +19,7 @@ Look, okay, I know that you can pay Claude $100 and it'll build you an app. This
   - Explain what each should do in a comment
   - Make design decisions that can make said app scalable
   - And then turn a cheaper model loose.
-  - You at your company save money and also maybe give me a good slice of those savings
+  - You and your company save money and also maybe give me a good slice of those savings so I can buy a **Camaro**
 - It's a win-win for everyone!
 
 ## SUMMARY
